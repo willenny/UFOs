@@ -19,3 +19,5 @@ If you were born on January 12th there are eight results! It looks like outerspa
 A similar search come be done by entering a city, state, country, and shape into the respected filter searches. 
 
 ## Summary
+Together we were able to create a neat and useful webpage but there are some things that could be included to improve it. A drawback of this webpage is the large amount of data in the table causes the webpage to extend a long way down. My recommendation for further development would be to create a scroll feature in the table. This will allow the whole webpage to more compact and easier to read. Another suggestion I would make it to include a brief set of directions of how to use the filter feature. It may seem intuitative to use but I think reinserting the button would allow users to clearly see how the filtering function works. 
+
